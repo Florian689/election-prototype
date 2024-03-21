@@ -1,0 +1,3 @@
+[submodule "authority-controller"]
+	path = authority-controller
+	url = https://github.com/Florian689/authority-controller.git
